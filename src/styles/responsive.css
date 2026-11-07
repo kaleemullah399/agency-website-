@@ -1,0 +1,33 @@
+@media (max-width: 768px) {
+  :root {
+    --section-padding: 55px 0;
+  }
+
+  .container {
+    width: min(100% - 32px, var(--container-width));
+  }
+
+  .section-title {
+    font-size: 30px;
+  }
+
+  .section-description {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    width: min(100% - 28px, var(--container-width));
+  }
+
+  .section-title {
+    font-size: 27px;
+  }
+
+  .primary-btn,
+  .secondary-btn {
+    padding: 12px 18px;
+    font-size: 13px;
+  }
+}
