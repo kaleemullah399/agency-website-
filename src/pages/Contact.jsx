@@ -32,7 +32,7 @@ const contacts = [
     name: "Kaleem Ullah",
     role: "Founder & Digital Growth Lead",
     phone: "03325846725",
-    whatsapp: "923325846725",
+    whatsapp: "923195984305",
     email: "kaleemullahktk399@gmail.com",
     initials: "KU",
     department: "Development & Digital Marketing",
